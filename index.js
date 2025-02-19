@@ -20,7 +20,7 @@ switch (document.getElementById('signo').value){
         alert('no se que poner pero ojala no te pase lo que quieras que te pase') ;
         break ; 
     case "virgo" :
-        alert('la mejor para ti siempre y la mala en ninguna') ;
+        alert('la mejor para ti siempre y la mala en ninguna, si eres gabo, si no muerete pal carach') ;
         break ;
     case "géminis" :
         alert('si no eres carlo eres un retrasado entonces y no me importa quien seas') ;
